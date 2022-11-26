@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119171365356",
+    "project_id": "flutter-seoul-app",
+    "storage_bucket": "flutter-seoul-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119171365356:android:aaee23629fb1e3e83de8c9",
+        "android_client_info": {
+          "package_name": "com.flutterseoul.app.flutter_seoul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119171365356-scp67nk8gnvpq2e3tq1spg3rq89sn8af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc92w79OpVIrNIA6JTbBBDLaK9xINdsFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119171365356-scp67nk8gnvpq2e3tq1spg3rq89sn8af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
