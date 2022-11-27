@@ -17,8 +17,14 @@ dependencies:
 
   firebase_auth: 4.1.4
 
+  # Router
+  go_router: ^5.2.0
+
   # State management
   riverpod: 2.1.1
+
+  # Auth
+  google_sign_in: 5.4.2
 
 dev_dependencies:
   flutter_test:
